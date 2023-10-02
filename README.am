@@ -1,0 +1,4 @@
+1. delivery_services.sql Insert in Your MySqle
+2. add Mysqle params in connect.php
+3. Create Domain path (index.php) or run this command in Termianal
+						php -S localhost:8000
